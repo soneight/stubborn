@@ -1,5 +1,5 @@
-# `TEMPLATE`
-> Project Legend
+# `STUBBORN`
+> C++17 STB Image Wrapper
 
 Project Overview
 
